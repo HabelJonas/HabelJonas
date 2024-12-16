@@ -1,5 +1,7 @@
 # Hi there, I'm Jonas Habel 👋
 
+![Visitor Count](https://profile-counter.glitch.me/HabelJonas/count.svg)
+
 ## About Me
 - 🔭 I’m currently working on [Your Project]
 - 🌱 I’m currently learning [Your Learning Goal]
