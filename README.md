@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Jonas Habel 👋
 
-<!--
-**HabelJonas/HabelJonas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 I’m currently working on [Your Project]
+- 🌱 I’m currently learning [Your Learning Goal]
+- 👯 I’m looking to collaborate on [Your Collaboration Interest]
+- 🤔 I’m looking for help with [Your Help Request]
+- 💬 Ask me about [Your Expertise]
+- 📫 How to reach me: [Your Contact Information]
+- ⚡ Fun fact: [A Fun Fact About You]
 
-Here are some ideas to get you started:
+## Skills
+- Programming Languages: [List of Programming Languages]
+- Frameworks and Libraries: [List of Frameworks and Libraries]
+- Tools: [List of Tools]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Project Name](Link to Project) - Brief description of the project
+- [Project Name](Link to Project) - Brief description of the project
+
+## Connect with Me
+- [LinkedIn](Your LinkedIn Profile)
+- [Twitter](Your Twitter Profile)
+- [GitHub](Your GitHub Profile)
