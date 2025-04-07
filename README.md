@@ -3,18 +3,14 @@
 ![Visitor Count](https://profile-counter.glitch.me/HabelJonas/count.svg)
 
 ## About Me
-- 🔭 I’m currently working on [Your Project]
-- 🌱 I’m currently learning [Your Learning Goal]
-- 👯 I’m looking to collaborate on [Your Collaboration Interest]
-- 🤔 I’m looking for help with [Your Help Request]
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Contact Information]
-- ⚡ Fun fact: [A Fun Fact About You]
+- 🔭 I’m currently working on an android app called "Even Money" written in Kotlin
+- 🌱 I’m currently learning about android development, dev team leadership and software architecture
+- 📫 How to reach me: via LinkedIn
 
 ## Skills
-- Programming Languages: [List of Programming Languages]
-- Frameworks and Libraries: [List of Frameworks and Libraries]
-- Tools: [List of Tools]
+- Programming Languages: C++ and C# (mainly)
+- Frameworks and Libraries: oh wow that will take a while ...
+- Tools: ...
 
 ## Projects
 - [Project Name](Link to Project) - Brief description of the project
