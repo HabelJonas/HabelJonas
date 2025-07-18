@@ -1,7 +1,5 @@
 # Hi there, I'm Jonas Habel 👋
 
-![Visitor Count](https://profile-counter.glitch.me/HabelJonas/count.svg)
-
 ## About Me
 - 🔭 I’m currently working on an android app called "Even Money" written in Kotlin
 - 🌱 I’m currently learning about android development, dev team leadership and software architecture
@@ -20,3 +18,7 @@
 - [LinkedIn](Your LinkedIn Profile)
 - [Twitter](Your Twitter Profile)
 - [GitHub](Your GitHub Profile)
+
+## Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HabelJonas&layout=compact)
