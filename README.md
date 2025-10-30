@@ -6,9 +6,15 @@
 - 📫 How to reach me: via LinkedIn
 
 ## Skills
-- Programming Languages: C++ and C# (mainly)
-- Frameworks and Libraries: oh wow that will take a while ...
-- Tools: ...
+- Languages: Kotlin, Java, C++, C#, JavaScript, Lua, TeX/BibTeX
+- Android: Jetpack Compose (Material 3, Navigation, previews), AndroidX (core-ktx, lifecycle), View system (AppCompat, ConstraintLayout, RecyclerView, ViewPager2/TabLayout), edge-to-edge UI
+- Firebase: Auth, Firestore, Analytics (via BoM, KTX)
+- Architecture & Patterns: MVVM, Repository pattern, DI via interfaces/fakes, Adapter, Command pattern, OOP, state hoisting in Compose
+- C++/Game Dev: SFML graphics, modern CMake (FetchContent, target-based), smart pointers (unique_ptr/shared_ptr), render loop and event handling
+- .NET: .NET 8 project setup, xUnit test projects, coverage with coverlet
+- Testing: xUnit, JUnit/AndroidX Test, Espresso, Compose UI testing, Catch2 (C++)
+- Tooling: Gradle (version catalogs), CMake, GitHub Actions CI
+- Docs/Notes: LaTeX/BibTeX workflows, Obsidian knowledge management
 
 ## Projects
 - [Project Name](Link to Project) - Brief description of the project
