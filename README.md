@@ -11,19 +11,13 @@
 - Firebase: Auth, Firestore, Analytics (via BoM, KTX)
 - Architecture & Patterns: MVVM, Repository pattern, DI via interfaces/fakes, Adapter, Command pattern, OOP, state hoisting in Compose
 - C++/Game Dev: SFML graphics, modern CMake (FetchContent, target-based), smart pointers (unique_ptr/shared_ptr), render loop and event handling
-- .NET: .NET 8 project setup, xUnit test projects, coverage with coverlet
-- Testing: xUnit, JUnit/AndroidX Test, Espresso, Compose UI testing, Catch2 (C++)
-- Tooling: Gradle (version catalogs), CMake, GitHub Actions CI
+- .NET: .NET 8 project setup, xUnit test projects, coverage with coverlet, Blazor
+- Testing: xUnit, JUnit/AndroidX Test, Espresso, Compose UI testing, Catch2 (C++), bUnit, Playwright
+- Tooling: Gradle (version catalogs), CMake, GitHub Actions CI, Gitlab Ci
 - Docs/Notes: LaTeX/BibTeX workflows, Obsidian knowledge management
 
 ## Projects
-- [Project Name](Link to Project) - Brief description of the project
-- [Project Name](Link to Project) - Brief description of the project
-
-## Connect with Me
-- [LinkedIn](Your LinkedIn Profile)
-- [Twitter](Your Twitter Profile)
-- [GitHub](Your GitHub Profile)
+---
 
 ## Most Used Languages
 
